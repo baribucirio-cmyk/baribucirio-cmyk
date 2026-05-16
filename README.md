@@ -40,7 +40,6 @@ Projeto experimental de plataforma social e interação.
 ---
 
 ## 📫 Contato
-  link do primeiro site: https://baribucirio.cmyk.github.io/site-estudo/
 - GitHub: https://github.com/baribucirio-cmyk
 - Email: baribucirio@gmail.com
 
