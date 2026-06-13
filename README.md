@@ -29,7 +29,8 @@ Atualmente no **1º ano de Engenharia Informática**. Sou um entusiasta de tecno
 *   🌐 **Site de Estudos do 1º Semestre**
     *   *O que é:* Meu ambiente virtual desenvolvido no **Visual Studio Code** para organizar os conteúdos, materiais e aprendizados do meu início na faculdade.
     *   *Tecnologias:* HTML5 e CSS3.
-    *   *Link:* [https://baribucirio-cmyk.github.io/site-estudo/]
+    *   *Link:*  https://baribucirio-cmyk.github.io/site-estudos/
+Last deployed by @baribucirio-cmyk baribucirio-cmyk last week
 
 *   🧮 **Calculadora Científica (VisuAlg)**
     *   *O que é:* Um software desenvolvido para terminal focado em resolver cálculos matemáticos complexos e operações científicas estruturadas.
